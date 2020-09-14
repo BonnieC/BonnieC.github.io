@@ -1,14 +1,29 @@
 
-title: Adventures in Customer Experience
+title: "Next Bonnie"
+subtitle: "What's next in my adventures in Customer Experience"
 email: barnali.c@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ This blog documents my journey in Customer Experience. It also documents how a middle-aged Asian woman found a new career in the middle of Silicon Valley.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://nextbonnie.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: barnali_c
+github_username:  bonniec
+
+author:
+  name     : "Bonnie Chatterjee"
+  avatar   : "/assets/images/bonniec.jpg"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : "California, USA"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/barnali_c"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/bonniec"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/barnalic/"
 
 # Build settings
 markdown: kramdown
@@ -17,6 +32,14 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+      read_time: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
