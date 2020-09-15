@@ -1,6 +1,6 @@
 
 title: "Next Bonnie"
-subtitle: "What's next in my adventures in Customer Experience"
+subtitle: "Exploring learnings as I step into my next career"
 email: barnali.c@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  This blog documents my journey in Customer Experience. It also documents how a middle-aged Asian woman found a new career in the middle of Silicon Valley.
@@ -12,7 +12,7 @@ github_username:  bonniec
 author:
   name     : "Bonnie Chatterjee"
   avatar   : "/assets/images/bonniec.jpg"
-  bio      : "My awesome biography constrained to a sentence or two goes here."
+  bio      : "Head of Customer Experience at GitHub"
   location : "California, USA"
   links:
     - label: "Twitter"
