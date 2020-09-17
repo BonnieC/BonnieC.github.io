@@ -10,6 +10,9 @@ categories: CX
 
 I recently embarked on a learning tour to understand how the best and the brightest are approaching customer experience. I spoke with the CX leaders at 16 companies including Microsoft, LinkedIn, Google, Salesforce, SurveyMonkey, Box,  VMWare, Sony, Facebook, Gainsight, Cisco, and ServiceNow. 
 
+
+![blueprint image](/assets/images/blueprint.jpeg)
+
 It turns out that most CX journeys have very similar characteristics. I have been thinking about it as a blueprint. There are generally 4 phases to this journey.
 
 **Phase One** is the beginning of the journey. Sometimes this is ignited by CEO or leadership desire to get closer to customers (40% of my interviewees indicated this), while in other cases this is triggered by negative customer feedback (40%) or losing customers (20%).
@@ -30,5 +33,4 @@ As you might expect, this isn’t a linear journey by any means. Phases 2, 3 and
 
 What does your company’s CX journey look like? What phase are you currently in?
 
-![blueprint image](/assets/images/blueprint.jpeg)
 
