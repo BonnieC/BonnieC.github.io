@@ -3,6 +3,7 @@ layout: single
 title:  "Customer Experience Blueprint"
 date:   2020-09-14 16:43:58 -0400
 author_profile: true
+classes: wide
 categories: CX 
 ---
 
