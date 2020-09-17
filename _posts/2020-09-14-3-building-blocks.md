@@ -2,6 +2,7 @@
 layout: single
 title:  "3 building blocks of a CX program"
 date:   2020-09-14 16:43:58 -0400
+classes: wide
 categories: CX 
 ---
 I searched far and wide for advice on how to launch a successful customer experience program. You see, I was taking on the brave new world of CX and didn’t want to repeat all the mistakes others had already made. I wanted to learn from the hard won ‘best practices’. I wanted to reduce risk and start from a position of knowledge and wisdom.  What I have learned so far is that in the end it comes down to the basics. The building blocks of a CX program are intention, insights and innovation.
