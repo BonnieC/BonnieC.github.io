@@ -3,7 +3,7 @@ title: "Next Bonnie"
 subtitle: "Exploring learnings as I embrace the next iteration of my career"
 email: barnali.c@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- This blog documents my journey in Customer Experience. It also documents how a middle-aged Asian woman found a new career in the middle of Silicon Valley.
+ This blog documents my journey in Customer Experience. It also documents how an immigrant Indian woman found a new career in the middle of Silicon Valley.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nextbonnie.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: barnali_c
@@ -40,6 +40,8 @@ defaults:
     values:
       show_date: true
       author_profile: true
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
