@@ -41,7 +41,7 @@ defaults:
       show_date: true
       author_profile: true
 
-
+logo: "/assets/images/logo.png"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
