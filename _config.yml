@@ -42,6 +42,9 @@ defaults:
       author_profile: true
 
 logo: "/assets/images/logo.png"
+
+layout: splash
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
